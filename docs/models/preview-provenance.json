@@ -1,0 +1,27 @@
+{
+  "status": "approximate assembly for visual review; not fabrication geometry",
+  "units": "millimetres",
+  "orientation": "X span; Y longitudinal; Z up",
+  "source": "paid design archives already present in repository; Flightory design credit and licence apply",
+  "inline_geometry": "per-part convex exterior envelopes, then edge collapse; no internal detail",
+  "simplifier": "vertex clustering (2 mm inline, 0.5 mm detail), duplicate/degenerate face removal, then fast-simplification 0.2.0 per-part edge collapse",
+  "helpers": "VTOL contains two synthetic 16 mm diameter, 500 mm long boom guides; electronics and propellers omitted",
+  "models": [
+    {
+      "name": "fixed",
+      "readme_triangles": 1707,
+      "detail_triangles": 19198,
+      "detail_file": "super-stingray-fixed-preview.stl",
+      "detail_sha256": "200a7cdd8736f556ce0e52d541f5091d9a07aff660a4c239c2339493d7a241df",
+      "source_sha256": "f04b11f53b6331546efc61d81bb699035a208dc9b2d754df43afb870ed503e0f"
+    },
+    {
+      "name": "vtol",
+      "readme_triangles": 2191,
+      "detail_triangles": 30603,
+      "detail_file": "super-stingray-vtol-preview.stl",
+      "detail_sha256": "86937d342ae9275ea15845acdccd71ac293fed2e6b4373cd9cc3c909ddd556be",
+      "source_sha256": "44846bc208ee7e933938eb5461adafc849e925006f117e1b23ac7201a521638a"
+    }
+  ]
+}

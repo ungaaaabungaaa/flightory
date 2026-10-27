@@ -1,0 +1,536 @@
+{
+  "status": "approximate reconstructed assembly for visualization; not validated for fabrication",
+  "units": "millimetres",
+  "source": "original binary STL vertices, with translations and symmetric instances",
+  "omitted": "electronic hardware, pusher propeller and lift propellers; not included as STL in these archives",
+  "helpers": "two dimensioned boom cylinders only; these are viewer guides, not supplied STL",
+  "uncertain": "per-part print-layout offsets and mount orientations need CAD/manual validation before publication",
+  "models": {
+    "fixed": [
+      {
+        "name": "FUS 1 .STL",
+        "placement": [
+          -123.36054980754852,
+          -65.7,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "FUS 2.STL",
+        "placement": [
+          -222.18227195739746,
+          -60,
+          -15.22
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "FUS 3.STL",
+        "placement": [
+          -203.30702900886536,
+          -60,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "FUS 4.STL",
+        "placement": [
+          -201.8861899971962,
+          -29.9,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "NOSE.STL",
+        "placement": [
+          -77.2855264544487,
+          -38,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "HATCH FRONT 1.STL",
+        "placement": [
+          -63.58703804016113,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "HATCH FRONT 2.STL",
+        "placement": [
+          -63.58703804016113,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "HATCH REAR 1.STL",
+        "placement": [
+          -62.83600664138794,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "HATCH REAR 2.STL",
+        "placement": [
+          -62.83600831031799,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT D19.STL",
+        "placement": [
+          -28.34069675207138,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WING 1 R.STL",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WING 1 R.STL mirrored",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "WING 2 R.STL",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WING 2 R.STL mirrored",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "WINGTIP R 1.STL",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WINGTIP R 1.STL mirrored",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "WINGTIP R 2.STL",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WINGTIP R 2.STL mirrored",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "WING ROOT R.STL",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WING ROOT R.STL mirrored",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "AIL 1 R.STL",
+        "placement": [
+          -501.6,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "AIL 1 R.STL mirrored",
+        "placement": [
+          -501.6,
+          0,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "AIL 2 R.STL",
+        "placement": [
+          -501.6,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "AIL 2 R.STL mirrored",
+        "placement": [
+          -501.6,
+          0,
+          0
+        ],
+        "mirrored": true
+      }
+    ],
+    "vtol": [
+      {
+        "name": "FUS 1 .STL",
+        "placement": [
+          -123.36054980754852,
+          -65.7,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "FUS 2.STL",
+        "placement": [
+          -222.18227195739746,
+          -60,
+          -15.22
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "FUS 3.STL",
+        "placement": [
+          -203.30702900886536,
+          -60,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "FUS 4.STL",
+        "placement": [
+          -201.8861899971962,
+          -29.9,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "NOSE.STL",
+        "placement": [
+          -77.2855264544487,
+          -38,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "HATCH FRONT 1.STL",
+        "placement": [
+          -63.58703804016113,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "HATCH FRONT 2.STL",
+        "placement": [
+          -63.58703804016113,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "HATCH REAR 1.STL",
+        "placement": [
+          -62.83600664138794,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "HATCH REAR 2.STL",
+        "placement": [
+          -62.83600831031799,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT D19.STL",
+        "placement": [
+          -28.34069675207138,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WING ROOT VTOL R.STL",
+        "placement": [
+          0,
+          2.7,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WING ROOT VTOL R.STL mirrored",
+        "placement": [
+          0,
+          2.7,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "WING 1 R VTOL.STL",
+        "placement": [
+          228.3,
+          3.6,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WING 1 R VTOL.STL mirrored",
+        "placement": [
+          228.3,
+          3.6,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "WING 2 R VTOL.STL",
+        "placement": [
+          395,
+          12.8,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WING 2 R VTOL.STL mirrored",
+        "placement": [
+          395,
+          12.8,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "AILERON 1R VTOL.STL",
+        "placement": [
+          0,
+          1.6,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "AILERON 1R VTOL.STL mirrored",
+        "placement": [
+          0,
+          1.6,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "AILERON 2R VTOL.STL",
+        "placement": [
+          0,
+          1.6,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "AILERON 2R VTOL.STL mirrored",
+        "placement": [
+          0,
+          1.6,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "WINGTIP R 1.STL",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WINGTIP R 1.STL mirrored",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "WINGTIP R 2.STL",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "WINGTIP R 2.STL mirrored",
+        "placement": [
+          0,
+          0,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "BOOM MOUNT R.STL",
+        "placement": [
+          105,
+          -20,
+          0
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "BOOM MOUNT R.STL mirrored",
+        "placement": [
+          105,
+          -20,
+          0
+        ],
+        "mirrored": true
+      },
+      {
+        "name": "MOTOR MOUNT BOTTOM VTOL.STL",
+        "placement": [
+          -334,
+          -20,
+          4
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT TOP VTOL.STL",
+        "placement": [
+          -334,
+          -20,
+          4
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT BOTTOM VTOL.STL",
+        "placement": [
+          -334,
+          -20,
+          504
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT TOP VTOL.STL",
+        "placement": [
+          -334,
+          -20,
+          504
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT BOTTOM VTOL.STL",
+        "placement": [
+          300,
+          -20,
+          4
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT TOP VTOL.STL",
+        "placement": [
+          300,
+          -20,
+          4
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT BOTTOM VTOL.STL",
+        "placement": [
+          300,
+          -20,
+          504
+        ],
+        "mirrored": false
+      },
+      {
+        "name": "MOTOR MOUNT TOP VTOL.STL",
+        "placement": [
+          300,
+          -20,
+          504
+        ],
+        "mirrored": false
+      }
+    ]
+  }
+}
