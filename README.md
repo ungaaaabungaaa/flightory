@@ -2,34 +2,6 @@
 
 A build reference for the Super Stingray flying wing and its VTOL conversion, with parts sources for builders in India.
 
-## Aircraft illustrations
-
-### Super Stingray — fixed wing
-
-![Super Stingray fixed-wing line-art concept](docs/images/super-stingray-fixed-wing-line-art.png)
-
-A swept flying wing with a modular nose and one rear pusher motor.
-
-### Super Stingray — VTOL
-
-![Super Stingray VTOL line-art concept](docs/images/super-stingray-vtol-line-art.png)
-
-The VTOL conversion adds four lift motors on two booms. The rear pusher motor remains in place.
-
-### Fixed wing — exploded view
-
-![Super Stingray fixed-wing conceptual exploded view](docs/images/super-stingray-fixed-wing-exploded.png)
-
-The illustration separates the main modules: wing panels, access hatches, removable nose, and rear motor with its propeller.
-
-### VTOL — exploded view
-
-![Super Stingray VTOL conceptual exploded view](docs/images/super-stingray-vtol-exploded.png)
-
-The illustration separates the wing panels, nose, hatches, two lift-motor booms, four lift motors, and rear pusher motor. It shows how the VTOL modules relate to the base aircraft.
-
-*These generated illustrations use Flightory's product images as visual references. Exploded views show the main modules only. Part shapes, joints, spacing, and alignment are illustrative. Use the supplied Flightory manual for assembly.*
-
 ## The aircraft
 
 The [Super Stingray](https://flightory.com/product/superstingray/) is a swept flying wing with a rear pusher motor, removable wings, and a modular nose. The [VTOL pack](https://flightory.com/product/super-stingray-vtol/) adds four lift motors on two booms. It is an add-on to the base aircraft, not a separate complete aircraft kit.
@@ -52,13 +24,19 @@ Aircraft design: **Flightory, Szymon Wójcik**. Purchase the [base files](https:
 
 Use the official product pages and the manual supplied with your purchase for print settings, assembly, centre of gravity, and wiring. These build notes and supplier options do not replace that manual.
 
-## Interactive 3D previews
+## Aircraft images and interactive 3D previews
 
 The inline previews use simplified exterior envelopes of the STL parts with reconstructed part positions. Links below each model open more detailed surface previews. Small holes, wall thickness, and internal print detail are omitted from the inline views. Some joints and mount orientations remain approximate. They are for visual review, not printing or assembly instructions. Motors, propellers, and electronics are not included in the source STL files. The VTOL preview includes two simple boom guides.
 
-The fixed-wing preview is first. The VTOL preview is below it. Both use GitHub's native interactive STL viewer.
+Each aircraft has an assembled illustration, an exploded-view illustration, and an interactive 3D preview. The fixed-wing aircraft is first. The VTOL aircraft is below it.
+
+*The line-art images are generated concept illustrations. The exploded views show the main modules only. Use the Flightory manual for assembly.*
 
 ### Super Stingray — fixed wing
+
+![Fixed wing assembled line-art illustration](docs/images/super-stingray-fixed-wing-line-art.png)
+
+![Fixed wing conceptual exploded-view illustration](docs/images/super-stingray-fixed-wing-exploded.png)
 
 Drag to rotate the model. Scroll to zoom.
 
@@ -12019,6 +11997,10 @@ endsolid super_stingray_fixed
 [Open the more detailed STL preview](docs/models/super-stingray-fixed-preview.stl).
 
 ### Super Stingray — VTOL
+
+![VTOL assembled line-art illustration](docs/images/super-stingray-vtol-line-art.png)
+
+![VTOL conceptual exploded-view illustration](docs/images/super-stingray-vtol-exploded.png)
 
 Drag to rotate the model. Scroll to zoom.
 
